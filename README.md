@@ -1,5 +1,5 @@
 # Sketchy
-A lightweight drawing application for quick technical drawings ( for when I don't want to wait for inkscape to load )
+A lightweight drawing application for quick technical drawings
 
 ![SKETCHY](include/shot1.png)
 
