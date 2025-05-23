@@ -1,6 +1,8 @@
 # Sketchy
 A lightweight drawing application for quick technical drawings.
 
+![SKETCHY](include/shot1.png)
+
 ## Feature list
 - Lines
 - Rectancle
