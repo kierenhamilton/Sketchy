@@ -4,8 +4,8 @@ A lightweight drawing application for quick technical drawings.
 ## Feature list
 - Lines
 - Rectancle
-- Texts
-- 4 Colors
+- Text
+- Colors
 - Undo
 - Clear
 ## Dependancies 
@@ -20,7 +20,8 @@ A lightweight drawing application for quick technical drawings.
 - **P** -> Pink  
 - **O** -> Red  
 - **B** -> Blue  
-- **G** -> Green  
+- **G** -> Green
+- **W** -> White
 ## Build instructions
 ### Windows 
 ```make.bat``` 
