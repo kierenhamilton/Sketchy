@@ -22,6 +22,10 @@ A lightweight drawing application for quick technical drawings.
 - **B** -> Blue  
 - **G** -> Green
 - **W** -> White
+
+### Features
+- **Z** -> Undo
+- **C** -> Clear
 ## Build instructions
 ### Windows 
 ```make.bat``` 
@@ -37,3 +41,4 @@ main.cpp, utils.h, utils.cpp with raylib
 - Box boarders instead of fill
 - mute colors to be less jaring
 - move objects
+- Fix popping empty vector bugs
